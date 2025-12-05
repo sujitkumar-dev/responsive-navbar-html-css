@@ -24,13 +24,11 @@ This navbar includes a company logo, menu links, and a mobile-friendly hamburger
 
 ## 🚀 Features
 
-Responsive Design – Adjusts smoothly for desktop, tablet, and mobile views.
+Responsive Design.
 
 Company Logo Section – Displays your brand or project logo.
 
 Navigation Links – Clean and easy-to-customize menu items.
-
-Hamburger Menu (if implemented) – Menu collapses into a toggle button on small screens.
 
 Pure HTML & CSS – No external frameworks required.
 
